@@ -1,10 +1,4 @@
 
-Sure, here's how you can achieve this by using the given HTML structure and completing the code in the script.js file:
-
-Open the script.js file and add the following code:
-javascript
-Copy code
-// script.js
 const outputDiv = document.getElementById('output');
 
 const getRandomTime = () => Math.floor(Math.random() * 5) + 1;
